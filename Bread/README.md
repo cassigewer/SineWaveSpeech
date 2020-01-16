@@ -1,6 +1,5 @@
 ### Bread Sine-Wave Speech
 
-
-var player = new System.Media.SoundPlayer("c:\\Clear2.wav");
-player.Play();
-
+<audio controls>
+  <source src="http://www.lifesci.sussex.ac.uk/home/Chris_Darwin/SWS/06_40.wav" />
+</audio>
